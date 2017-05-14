@@ -1,5 +1,1 @@
-Udacity and Twitter bring you Real-Time Analytics with Apache Storm
-=====
-
-Join the course for free:
-www.udacity.com/course/ud381
+Real time analysis and processing using Apache Storm. Please feel free to download and use the project
