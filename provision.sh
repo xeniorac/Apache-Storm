@@ -1,7 +1,7 @@
 #!/bin/bash -i
 
 # The following are documented (and stolen from) here:
-#   http://redsymbol.net/articles/unofficial-bash-strict-mode/
+###   http://redsymbol.net/articles/unofficial-bash-strict-mode/
 #
 # In case that link dies, here's the simple version:
 # 1) -e means if there's an error, stop execution.
